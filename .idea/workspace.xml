@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="625070d4-f8c4-4a91-984e-32d5ef0a134f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CRUDLaravel/app/Http/Controllers/Auth/AuthenticatedSessionController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CRUDLaravel/app/Http/Controllers/Auth/ConfirmablePasswordController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CRUDLaravel/app/Http/Controllers/Auth/EmailVerificationNotificationController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CRUDLaravel/app/Http/Controllers/Auth/EmailVerificationPromptController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CRUDLaravel/app/Http/Controllers/Auth/NewPasswordController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CRUDLaravel/app/Http/Controllers/Auth/PasswordController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CRUDLaravel/app/Http/Controllers/Auth/PasswordResetLinkController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CRUDLaravel/app/Http/Controllers/Auth/RegisteredUserController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CRUDLaravel/app/Http/Controllers/Auth/VerifyEmailController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CRUDLaravel/app/Http/Controllers/UsuarioController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CRUDLaravel/resources/views/cadastrarUsuario.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CRUDLaravel/resources/views/listarUsuarios.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLaravel/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/CRUDLaravel/app/Models/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLaravel/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLaravel/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/CRUDLaravel/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLaravel/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +180,8 @@
       <workItem from="1701124098358" duration="502000" />
       <workItem from="1701124610416" duration="19000" />
       <workItem from="1701132065244" duration="4986000" />
-      <workItem from="1701138693286" duration="11387000" />
+      <workItem from="1701138693286" duration="11911000" />
+      <workItem from="1701211517964" duration="1310000" />
     </task>
     <servers />
   </component>
